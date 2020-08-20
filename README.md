@@ -40,5 +40,5 @@ On sait donc que c'est le premier 3 de la matrice<br/>
 - Rouge > Rose > Vert > Orange > Bleu<br/>
 - J'ai donc assemblé les numéros à l'aide de la méthode employée tout en prêtant attention aux couleurs.<br/>
 Je crée 5 tableaux vu qu'il y a 5 flèches qui relient chacune 2 valeurs. J'utilise toString() sur chaque tableau pour convertir les chiffres en caractères car la fonction split() n'est pas compatible pour les nombres entiers (petite implé du langage pour pallier cette problématique ce serait bien javascript svp :] ?). Ensuite je concatène chaque tableau pour assembler les nombres. La variable "final" utilise split(',') SANS OUBLIER la virgule entre les guillemets pour excepter la virgule dans la réponse finale car c'est des tableaux. Puis j'utilise la méthode reverse() pour inverser chaque caractère et join('') pour rassembler les caractères inversés.<br/>
-- Voici le résultat final<br/><br/>
+- Voici le résultat final de la section Matrice.<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746096009590997073/unknown.png"/><br/><br/>
