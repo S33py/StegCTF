@@ -23,8 +23,8 @@
 - 9#7> = 5>5|<br/>
 - 18#7|>8 = 7|<br/>
 - 12#7|>2 = 6><br/>
+#### Vulgarisation de la 1E instruction
 - Première instruction : 3#1 = 4>4|<br/>
-#### Vulgarisation de l'instruction
 3 = Le chiffre<br/>
 #1 = Définit la position.<br/>
 On sait donc que c'est le premier 3 de la matrice<br/>
