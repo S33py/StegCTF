@@ -2,6 +2,8 @@
 - Salut à tous je vous présente la WriteUP de mon chall stéganographie, la WriteUP n'est pas encore terminée.
 - Je suis l'auteur du script resolve, d'ailleurs j'ai pas encore fini de compléter les ToS de mon cipher Seepyrus que j'ai inventé, ça va venir vous inquiétez pas.
 ## Analyse image JPEGSnoop
+- Tout d'abord, voici l'image qu'on devra analyser et exploiter<br/><br/>
+<img src="https://raw.githubusercontent.com/S33py/WriteUP-St3gS33py/master/st3gs33py.jpg"/><br/><br/>
 - J'ouvre l'image à l'aide de JPEGSnoop, je vous indique déjà les parties intéressantes.<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746070274230976552/unknown.png"/><br/><br/>
 - En premier lieu on nous indique que la taille de de l'image est de 35514 octets.<br/>
