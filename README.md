@@ -1,4 +1,4 @@
-# StegCTF
+# StegS33py
 - Salut à tous je vous présente la WriteUP de mon chall stéganographie.
 - Voici les ToS à respecter et à suivre pour résoudre le challenge
 ## Analyse image JPEGSnoop
