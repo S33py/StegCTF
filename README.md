@@ -15,15 +15,17 @@
 
 
 ### Matrice
-<img src="https://media.discordapp.net/attachments/745665491774996631/746074224535273652/unknown.png"/><br/><br/>
-- On doit aussi employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.
+<img src="https://media.discordapp.net/attachments/745665491774996631/746092662448324699/unknown.png"/><br/>
+- On doit employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.
 #### MatCipher Seepyrus :<br/>
 - 3#1 = 4>4|
 - 3#5| = 3>
 - 9#7> = 5>5|
 - 18#7|>8 = 7|
 - 12#7|>2 = 6><br/>
-- Voici ce que j'ai fait pour résoudre cette matrice<br/><br/>
+- Voici ce que j'ai fait pour résoudre cette matrice à l'aide de Seepyrus.<br/><br/>
+<img src="https://media.discordapp.net/attachments/745665491774996631/746074224535273652/unknown.png"/><br/>
+- Ici la solution ultime des nombres obtenus
 <img src="https://media.discordapp.net/attachments/745665491774996631/746078634091217027/unknown.png"/><br/><br/>
 - Selon les ToS du challenge, on doit suivre la concordation des couleurs. 
 J'ai donc assemblé les numéros à l'aide de la méthode employée tout en prêtant attention aux couleurs.
