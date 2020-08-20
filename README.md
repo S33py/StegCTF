@@ -12,8 +12,8 @@
 ## Développement
 - Le but étant de créer un script à fonctions arithmétiques on doit donc développer des fonctions sélectives qui finiront par correspondre à nos attentes.<br/>
 - J'ai opté pour le langage Javascript car ça m'aura permis d'en apprendre plus vu que je suis encore en apprentissage.<br/>
-
-
+### RGBBuffer (en cours)
+### DQT Market xFFDB (en cours)
 ### Matrice
 <img src="https://media.discordapp.net/attachments/745665491774996631/746092662448324699/unknown.png"/><br/>
 - On doit employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.<br/>
