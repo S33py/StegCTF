@@ -14,11 +14,18 @@
 - J'ai opté pour le langage Javascript car ça m'aura permis d'en apprendre plus vu que je suis encore en apprentissage.<br/>
 
 
-### Fonction Matrice
+### Matrice
 <img src="https://media.discordapp.net/attachments/745665491774996631/746074224535273652/unknown.png"/><br/><br/>
+- On doit aussi employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.
+#### MatCipher Seepyrus :<br/>
+- 3#1 = 4>4|
+- 3#5| = 3>
+- 9#7> = 5>5|
+- 18#7|>8 = 7|
+- 12#7|>2 = 6><br/>
 - Voici ce que j'ai fait pour résoudre cette matrice<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746078634091217027/unknown.png"/><br/><br/>
-- Selon les ToS du challenge, on doit suivre la concordation des couleurs.
+- Selon les ToS du challenge, on doit suivre la concordation des couleurs. 
 J'ai donc assemblé les numéros à l'aide de la méthode employée tout en prêtant attention aux couleurs.
 Je crée donc 5 tableaux vu qu'il y a 5 flèches qui relient chacune 2 valeurs. 
 J'ai utilisé toString() sur chaque tableau pour convertir les chiffres en caractères car la fonction split() ne marche pas sur des nombres entiers.
