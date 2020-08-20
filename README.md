@@ -25,12 +25,12 @@
 - 12#7|>2 = 6><br/>
 - Première instruction : 3#1 = 4>4|<br/>
 ##### Vulgarisation de l'instruction
-3 = Le chiffre
-#1 = Définit la position.
-- On sait donc que c'est le premier 3 de la matrice
-4> = 4 rangées à droite en comptant le fait que ce soit du zero-based.
-4| = 4 rangées en bas en comptant le fait que ce soit du zero-based.
-- Et hop on arrive au chiffre 5<br/>
+3 = Le chiffre<br/>
+#1 = Définit la position.<br/>
+- On sait donc que c'est le premier 3 de la matrice<br/>
+4> = 4 rangées à droite en comptant le fait que ce soit du zero-based.<br/>
+4| = 4 rangées en bas en comptant le fait que ce soit du zero-based.<br/>
+- Et hop on arrive au chiffre 5<br/><br/>
 - Maintenant vous n'avez plus qu'à suivre ce procédé en regardant les symboles.<br/>
 - Voici ce que j'obtiens en complétant le tout<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746074224535273652/unknown.png"/><br/><br/>
