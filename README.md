@@ -1,6 +1,6 @@
 # St3gS33py
-- Salut à tous je vous présente la WriteUP de mon chall stéganographie.
-- Voici les ToS à respecter et à suivre pour résoudre le challenge
+- Salut à tous je vous présente la WriteUP de mon chall stéganographie, la WriteUP n'est pas encore terminée.
+- Je suis l'auteur du script resolve, d'ailleurs j'ai pas encore fini de compléter les ToS de mon cipher Seepyrus que j'ai inventé, ça va venir vous inquiétez pas.
 ## Analyse image JPEGSnoop
 - J'ouvre l'image à l'aide de JPEGSnoop, je vous indique déjà les parties intéressantes.<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746070274230976552/unknown.png"/><br/><br/>
