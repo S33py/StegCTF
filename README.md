@@ -6,7 +6,7 @@
 <img src="https://media.discordapp.net/attachments/745665491774996631/746070274230976552/unknown.png"/><br/><br/>
 - En premier lieu on nous indique que la taille de de l'image est de 35514 octets.<br/>
 - On a aussi l'attribut du Marker DQT notamment "xFFDB".<br/>
-- L'offset de la partie de la table de la table de quantification notamment "0x00000014"<br/>
+- L'offset de la partie de la table de quantification notamment "0x00000014"<br/>
 - Ensuite on voit qu'il y a 7 rangées du Marker DQT avec comme ID "0" et une matrice néanmoins intéressante.<br/>
 - Comme dernière information on a taille de la table qui fait 67 octets, même si cette information nous sera inutile.<br/>
 ## Développement
