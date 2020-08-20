@@ -40,9 +40,9 @@ On sait donc que c'est le premier 3 de la matrice<br/>
 - Rouge > Rose > Vert > Orange > Bleu<br/>
 - J'ai donc assemblé les numéros à l'aide de la méthode employée tout en prêtant attention aux couleurs.<br/>
 Je crée 5 tableaux vu qu'il y a 5 flèches qui relient chacune 2 valeurs. <br/>
-J'ai utilisé toString() sur chaque tableau pour convertir les chiffres en caractères car la fonction split() ne marche pas sur des nombres entiers.<br/>
-Ensuite j'ai concatené chaque tableau pour assembler les nombres.<br/>
+J'utilise toString() sur chaque tableau pour convertir les chiffres en caractères car la fonction split() n'est pas compatible pour les nombres entiers.<br/>
+Ensuite je concatène chaque tableau pour assembler les nombres.<br/>
 La variable "final" utilise split(',') SANS OUBLIER la virgule entre les guillemets pour excepter la virgule dans la réponse finale car c'est des tableaux.<br/>
-Puis la méthode reverse() pour inverser chaque caractère et join('') pour rassembler les caractères inversés.<br/>
+Puis j'utilise la méthode reverse() pour inverser chaque caractère et join('') pour rassembler les caractères inversés.<br/>
 - Voici le résultat final<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746096009590997073/unknown.png"/><br/><br/>
