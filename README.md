@@ -1,5 +1,6 @@
 # StegCTF
-- Salut à tous je vous présente la WriteUP de mon chall stéganographie.<br/>
+- Salut à tous je vous présente la WriteUP de mon chall stéganographie.
+- Voici les ToS à respecter et à suivre pour résoudre le challenge
 ## Analyse image JPEGSnoop
 - J'ouvre l'image à l'aide de JPEGSnoop, je vous indique déjà les parties intéressantes.<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746070274230976552/unknown.png"/><br/><br/>
