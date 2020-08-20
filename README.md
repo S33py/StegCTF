@@ -27,7 +27,7 @@
 ##### Vulgarisation de l'instruction
 3 = Le chiffre<br/>
 #1 = Définit la position.<br/>
-- On sait donc que c'est le premier 3 de la matrice<br/>
+On sait donc que c'est le premier 3 de la matrice<br/>
 4> = 4 rangées à droite en comptant le fait que ce soit du zero-based.<br/>
 4| = 4 rangées en bas en comptant le fait que ce soit du zero-based.<br/>
 - Et hop on arrive au chiffre 5<br/><br/>
