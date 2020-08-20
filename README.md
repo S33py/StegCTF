@@ -44,3 +44,5 @@ J'ai utilisé toString() sur chaque tableau pour convertir les chiffres en carac
 Ensuite j'ai concatené chaque tableau pour assembler les nombres.<br/>
 La variable "final" utilise split(',') SANS OUBLIER la virgule entre les guillemets pour excepter la virgule dans la réponse finale car c'est des tableaux.<br/>
 Puis la méthode reverse() pour inverser chaque caractère et join('') pour rassembler les caractères inversés.<br/>
+- Voici le résultat final<br/><br/>
+<img src="https://media.discordapp.net/attachments/745665491774996631/746096009590997073/unknown.png"/><br/><br/>
