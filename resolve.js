@@ -1,6 +1,6 @@
 var colors = require("colors");
 
-// Marker DQT "xFFDB"
+// Marker DQT 
 function id0(s){
     if (s.substr(0,2).toLowerCase() == "0x") {
         return s;
@@ -21,7 +21,7 @@ function id0(s){
     return "0x" + o;
 }
 
-console.log("Marker DQT : ".green + id0("xFFDB").red);
+console.log("Marker DQT : ".green + "St3g{".yellow + id0("xFFDB").red + "}".yellow);
 
 
 //RGBBuffer 35514 bytes
@@ -35,7 +35,7 @@ function rgbhex(num){
     return '0x'+r+g+b;                
   };
 
-console.log("Buffer RGBHex : ".green + rgbhex(35514).red);        
+console.log("Buffer RGBHex : ".green + "St3g{".yellow + rgbhex(35514).red + "}".yellow);        
 
 //Matrice
 function resolvematrice(){
@@ -46,6 +46,6 @@ function resolvematrice(){
 	var chare = [12, 22].toString();
 	var charconcat = chara.concat(charb, charc, chard, chare); 
 	var final = charconcat.split(',').reverse().join(''); 
-	console.log("Key de la matrice : ".green + final.red);
+	console.log("Key de la matrice : ".green + "St3g{".yellow + final.red + "}".yellow);
 }
 resolvematrice();
