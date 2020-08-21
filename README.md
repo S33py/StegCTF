@@ -14,8 +14,12 @@
 ## Développement
 - Le but étant de créer un script à fonctions arithmétiques on doit donc développer des fonctions sélectives qui finiront par correspondre à nos attentes.<br/>
 - J'ai opté pour le langage Javascript car ça m'aura permis d'en apprendre plus vu que je suis encore en apprentissage.<br/>
-### RGBBuffer (en cours)
 ### DQT Market xFFDB (en cours)
+- Pour résoudre le le marker DQT avec nom assigné xFFDB.<br/><br/>
+<img src="https://media.discordapp.net/attachments/745665491774996631/746343389015965749/unknown.png?width=695&height=402"/><br/><br/>
+- Dans les ToS il est affiché qu'on doit utiliser la méthode substr() pour sélectionner la partie DQT avec une incrémentation 0x0f tout en implémentant le tout en hexadécimal.  
+
+### RGBBuffer (en cours)
 ### Matrice
 <img src="https://media.discordapp.net/attachments/745665491774996631/746092662448324699/unknown.png"/><br/>
 - On doit employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.<br/>
@@ -37,7 +41,7 @@ On sait donc que c'est le premier 3 de la matrice<br/>
 - Voici ce que j'obtiens en complétant le tout<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746074224535273652/unknown.png"/><br/><br/>
 - Ici la solution ultime des nombres obtenus<br/><br/>
-<img src="https://media.discordapp.net/attachments/745665491774996631/746078634091217027/unknown.png"/><br/><br/>
+<img src="https://media.discordapp.net/attachments/745665491774996631/746343648236535958/unknown.png?width=695&height=215"/><br/><br/>
 - Selon les ToS du challenge, on doit suivre la concordation des couleurs tout en les inversant.<br/>
 - Rouge > Rose > Vert > Orange > Bleu<br/>
 - J'ai donc assemblé les numéros à l'aide de la méthode employée tout en prêtant attention aux couleurs.<br/>
