@@ -14,12 +14,17 @@
 ## Développement
 - Le but étant de créer un script à fonctions arithmétiques on doit donc développer des fonctions sélectives qui finiront par correspondre à nos attentes.<br/>
 - J'ai opté pour le langage Javascript car ça m'aura permis d'en apprendre plus vu que je suis encore en apprentissage.<br/>
-### DQT Market xFFDB (en cours)
+### DQT Market xFFDB
 - Pour résoudre le le marker DQT avec nom assigné xFFDB.<br/><br/>
 <img src="https://media.discordapp.net/attachments/745665491774996631/746343389015965749/unknown.png?width=695&height=402"/><br/><br/>
-- Dans les ToS il est affiché qu'on doit utiliser la méthode substr() pour sélectionner la partie DQT avec une incrémentation 0x0f tout en implémentant le tout en hexadécimal.  
-
-### RGBBuffer (en cours)
+- Dans les ToS il est affiché qu'on doit utiliser la méthode substr() pour sélectionner la partie DQT avec une incrémentation 0x0f tout en implémentant le tout en hexadécimal.<br/>
+- On coffre la fonction et on passe directement au RGBBuffer<br/>  
+### RGBBuffer
+- Voici ce que j'ai fait pour résoudre le RGBBuffer<br/><br/>
+<img src="https://media.discordapp.net/attachments/745665491774996631/746344192548012062/unknown.png"/><br/><br/>
+- Je crée trois variables dupées par des valeurs hexadécimales, la première R je lui affectionne 0xff0000 et je la code en 16 octets.<br/>
+- Ensuite G 0x00ff00 et je la code en 8 octets, puis B que j'affectionne en 0x0000ff mais cette fois-ci sans coder les octets.<br/>
+- Puis il reste plus qu'à faire la fonction qui implémente le tout et on a notre résultat.<br/>
 ### Matrice
 <img src="https://media.discordapp.net/attachments/745665491774996631/746092662448324699/unknown.png"/><br/>
 - On doit employer le cipher Seepyrus que j'ai inventé, il a été présenté dans les ToS, je vous le remets ici.<br/>
