@@ -1,5 +1,5 @@
 # St3gS33py
-- Salut à tous je vous présente la WriteUP de mon chall stéganographie, la WriteUP n'est pas encore terminée.<br/>
+- Salut à tous je vous présente la WriteUP de mon chall stéganographie.<br/>
 - Je suis l'auteur du script resolve.<br/>
 - ToS à lire pour résoudre les challenges. : https://justpaste.it/8tui6/pdf<br/>
 ## Analyse image JPEGSnoop
