@@ -49,3 +49,5 @@ function resolvematrice(){
 	console.log("Key de la matrice : ".green + "St3g{".yellow + final.red + "}".yellow);
 }
 resolvematrice();
+rgbhex();
+id0();
